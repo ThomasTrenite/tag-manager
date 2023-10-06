@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "tag_name": "User registration",
+        "tag_desc": "Culpa explicabo error dignissimos iste quae vero.",
+        "tag_level": "common"
+      },
+      {
+        "id": "2",
+        "tag_name": "Payment Integration",
+        "tag_desc": "Iusto maiores occaecati accusamus repudiandae animi necessitatibus aliquid magni.",
+        "tag_level": "moderate"
+        },
+      {
+        "id": "3",
+        "tag_name": "Social login",
+        "tag_desc": "Doloribus explicabo dolores nisi culpa consequuntur animi ex sequi.",
+        "tag_level": "rare"
+      },
+      {
+        "id": "4",
+        "tag_name": "Search functionality",
+        "tag_desc": "Exercitationem praesentium reprehenderit quam repellat in delectus.",
+        "tag_level": "very rare"
+      },
+      {
+        "id": "5",
+        "tag_name": "Accessibility",
+        "tag_desc": "Iste repellendus quod repellendus consequatur beatae eveniet pariatur.",
+        "tag_level": "unique"
+      }
+]
